@@ -14,3 +14,4 @@
 
 ## Repositórios Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=python&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=project_qrcode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
