@@ -13,5 +13,5 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/antoniorochadevs/)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=Python_basic&theme=tokyonight)](https://github.com/antonioscript/python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=python&theme=tokyonight)](https://github.com/antonioscript/python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=Project_qrcode&theme=tokyonight)](https://github.com/antonioscript/project_qrcode)
