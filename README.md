@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscript&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Redes Sociais
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/antoniorochadevs)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](htttps://www.linkedin.com/in/antoniorochadevs)
 
 ## Repositórios Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=python&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
