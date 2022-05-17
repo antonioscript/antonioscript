@@ -11,7 +11,7 @@
 
 ## Minhas Redes Sociais
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/antoniorochadevs/)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCLNSWTTuKQnQz5YgEWkAMkw))
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCLNSWTTuKQnQz5YgEWkAMkw)
 
 ## Repositórios Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=python&theme=tokyonight)](https://github.com/antonioscript/python)
