@@ -14,5 +14,3 @@
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCLNSWTTuKQnQz5YgEWkAMkw)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=sistema_de_cadastro_estoque&theme=tokyonight)](https://github.com/antonioscript/Sistema_de_cadastro_estoque)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=projeto_ler_email_e_baixar_anexo&theme=tokyonight)](https://github.com/antonioscript/projeto_ler_email_e_baixar_anexo)
