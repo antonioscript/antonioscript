@@ -3,9 +3,11 @@
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![MYSQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MOONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscript&layout=compact&theme=tokyonight)](https://github.com/antonioscript/github-readme-stats)
 
@@ -18,3 +20,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=projeto_ler_email_e_baixar_anexo&theme=tokyonight)](https://github.com/antonioscript/projeto_ler_email_e_baixar_anexo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=projeto_formatar_texto&theme=tokyonight)](https://github.com/antonioscript/projeto_formatar_texto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=analise_de_compras_de_uma_loja&theme=tokyonight)](https://github.com/antonioscript/analise_de_compras_de_uma_loja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=API_consultar_cep&theme=tokyonight)](https://github.com/antonioscript/API_consultar_cep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=cotacoes_moedas_python&theme=tokyonight)](https://github.com/antonioscript/cotacoes_moedas_python)
