@@ -24,3 +24,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=analise_de_compras_de_uma_loja&theme=tokyonight)](https://github.com/antonioscript/analise_de_compras_de_uma_loja)
 
 
+
