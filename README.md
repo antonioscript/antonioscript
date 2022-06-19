@@ -4,15 +4,17 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioscript&show_icons=true&theme=tokyonight)](https://github.com/antonioscript/github-readme-stats)
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MYSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MYSQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MOONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<img align ="center" height = "50" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img align ="center" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align ="center" height = "50" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+<img align ="center" height = "50" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img align ="center" height = "50" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+<img align ="center" height = "50" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
+<img align ="center" height = "50" width = "60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img img align ="center" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img img align ="center" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+           
+                   
+          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscript&layout=compact&theme=tokyonight)](https://github.com/antonioscript/github-readme-stats)
 
 ## Minhas Redes Sociais
