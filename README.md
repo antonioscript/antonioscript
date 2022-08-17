@@ -26,7 +26,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=gestao_de_funcionarios.NET&theme=tokyonight)](https://github.com/antonioscript/gestao_de_funcionarios.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=sistema_de_tarefas.NET&theme=tokyonight)](https://github.com/antonioscript/sistema_de_tarefas.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=sistema_de_consulta_cadastro_CNPJ&theme=tokyonight)](https://github.com/antonioscript/sistema_de_consulta_cadastro_CNPJ)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=conversor_de_moedas&theme=tokyonight)](https://github.com/antonioscript/conversor_de_moedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioscript&repo=API_consultar_cep&theme=tokyonight)](https://github.com/antonioscript/API_consultar_cep)
 
 
 
