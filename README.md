@@ -1,8 +1,6 @@
 ## Olá, Seja Bem Vindo!
 ### Acesse Meu Portfólio: <a href="https://sites.google.com/view/antonio-rocha/p%C3%A1gina-inicial"> Clique Aqui</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioscript&show_icons=true&theme=tokyonight)](https://github.com/antonioscript/github-readme-stats)
-
 ## Skills
 
 <img align ="center" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img align ="center" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img align ="center" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /><img align ="center" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img align ="center" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
